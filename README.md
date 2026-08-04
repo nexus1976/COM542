@@ -11,8 +11,8 @@ https://trello.com/b/CbBYtSN8/comp542-group-4-task-board
 | XGBoost | 0.875633 | 0.77745 | 0.723926 | 0.93059 | 0.87411 |
 | Random Forest | 0.857976 | 0.735187 | 0.684838 | 0.908239 | 0.853629 |
 | Neural Network | 0.838630 | 0.691057 | 0.641192 | 0.887686 | 0.833236 |
-| Logistic Regression |  |  |  |  |  |
-| Naive Bayes |  |  |  |  |  |
+| Logistic Regression | 0.8506 | 0.7202 | 0.6667 | 0.9078 | 0.8513 |
+| Naive Bayes | 0.5534 | 0.3458 | 0.5082 | 0.7734 | 0.5421 |
 
 ## Results (post-hyperparameter tuning)
 
@@ -22,5 +22,5 @@ https://trello.com/b/CbBYtSN8/comp542-group-4-task-board
 | XGBoost | 0.87425 | 0.77395 | 0.72095 | 0.93173 | 0.87512 |
 | Random Forest | 0.8696 | 0.7911 | 0.6971 | 0.9209 | 0.861870 |
 | Neural Network | 0.8449 | 0.6782 | 0.6777 | 0.8993 | 0.833384 |
-| Logistic Regression |  |  |  |  |  |
-| Naive Bayes |  |  |  |  |  |
+| Logistic Regression | 0.8505 | 0.7230 | 0.6641 | 0.9075 | 0.8516 |
+| Naive Bayes | 0.6069 | 0.3741 | 0.5352 | 0.8311 | 0.6023 |
